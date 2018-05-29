@@ -1,0 +1,2 @@
+# AngularAppStarter
+MEAN Stack Start
